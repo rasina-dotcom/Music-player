@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cozy Music Player</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="player-container">
+
+    <div class="album-cover">
+        <img id="cover" src="images/cover1.jpg" alt="Album Art">
+    </div>
+
+    <h2 id="title">Cozy Night</h2>
+    <h4 id="artist">Calm Beats</h4>
+
+    <audio id="audio"></audio>
+
+    <div class="controls">
+        <button id="prev">⏮</button>
+        <button id="play">⏯</button>
+        <button id="next">⏭</button>
+    </div>
+
+    <div class="volume-box">
+        <label>Volume 🎧</label>
+        <input type="range" id="volume" min="0" max="1" step="0.01">
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
