@@ -1,10 +1,10 @@
 # 🎵 Musicplayer
 
-...
+---
 
 A simple and fully functional Music Player built using HTML, CSS, and JavaScript as part of my CodeAlpha Internship – Task 3.
 
-...
+---
 
 🚀 Features
 
@@ -15,7 +15,7 @@ A simple and fully functional Music Player built using HTML, CSS, and JavaScript
 - Clean, cozy, and user-friendly UI
 - Responsive design (works on all devices)
 
-...
+---
   
 🛠️ Tech Stack
 
@@ -23,6 +23,6 @@ A simple and fully functional Music Player built using HTML, CSS, and JavaScript
 - CSS – Styling
 - JavaScript – Logic and functionality
 
-...
+---
   
 🔗 Live Demo
