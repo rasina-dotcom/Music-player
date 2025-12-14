@@ -26,3 +26,5 @@ A simple and fully functional Music Player built using HTML, CSS, and JavaScript
 ---
   
 🔗 Live Demo
+
+https://rasina-dotcom.github.io/Music-player/
